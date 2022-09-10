@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "samp-4"
+  description: "desc"
+  annotations:
+    github.com/project-slug: Medha008/sample-345
+spec:
+  type: service
+  owner: "guests"
+  lifecycle: experimental
